@@ -22,17 +22,17 @@ It was created for learning purposes, focusing on Java GUI development and basic
 
 🎮 Controls
 Player:
-  W – Move paddle up or ↑ – Move paddle up
-  S – Move paddle down or ↓ – Move paddle down
+  1. W – Move paddle up or ↑ – Move paddle up
+  2. S – Move paddle down or ↓ – Move paddle down
 📌 Features
-  --> Simple and clean GUI
-  -> Two-player local gameplay
-  -> Basic collision detection
-  -> Score tracking
-  -> Lightweight and easy to understand code
+   1. Simple and clean GUI
+   2. Two-player local gameplay
+   3. Basic collision detection
+   4. Score tracking
+   5. Lightweight and easy to understand code
 🎯 Purpose
   This project was developed for educational purposes to practice:
-  -> Java Swing
-  -> Object-oriented programming
-  -> Game loop logic
-  -> Keyboard input handling
+  1. Java Swing
+  2. Object-oriented programming
+  3. Game loop logic
+  4. Keyboard input handling
