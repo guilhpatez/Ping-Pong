@@ -24,12 +24,14 @@ It was created for learning purposes, focusing on Java GUI development and basic
 Player:
   1. W – Move paddle up or ↑ – Move paddle up
   2. S – Move paddle down or ↓ – Move paddle down
+     
 📌 Features
    1. Simple and clean GUI
    2. Two-player local gameplay
    3. Basic collision detection
    4. Score tracking
    5. Lightweight and easy to understand code
+
 🎯 Purpose
   This project was developed for educational purposes to practice:
   1. Java Swing
