@@ -198,9 +198,6 @@ public class PingPong extends JPanel implements ActionListener, KeyListener{
         
     }
     
-    //Lendo o teclado
-     
-    
     //movimentação
     @Override
     public void actionPerformed(ActionEvent e)
@@ -216,10 +213,10 @@ public class PingPong extends JPanel implements ActionListener, KeyListener{
     @Override
     public void keyTyped(KeyEvent e) {}
 
+    //Lendo o teclado
     @Override
     public void keyPressed(KeyEvent e) {
         int Codtecla = e.getKeyCode();
-        
         
         if(Codtecla == KeyEvent.VK_W || Codtecla == KeyEvent.VK_UP)
         {
